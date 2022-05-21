@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/freecodecamp-tareasrepository-name/static/css/main.17043f22.css",
-    "main.js": "/freecodecamp-tareasrepository-name/static/js/main.c66c1793.js",
-    "static/media/freecodecamp-logo.png": "/freecodecamp-tareasrepository-name/static/media/freecodecamp-logo.5486935b905c7949600c.png",
-    "index.html": "/freecodecamp-tareasrepository-name/index.html",
-    "main.17043f22.css.map": "/freecodecamp-tareasrepository-name/static/css/main.17043f22.css.map",
-    "main.c66c1793.js.map": "/freecodecamp-tareasrepository-name/static/js/main.c66c1793.js.map"
+    "main.css": "/freecodecamp-tareas/static/css/main.17043f22.css",
+    "main.js": "/freecodecamp-tareas/static/js/main.3fc938b0.js",
+    "static/media/freecodecamp-logo.png": "/freecodecamp-tareas/static/media/freecodecamp-logo.5486935b905c7949600c.png",
+    "index.html": "/freecodecamp-tareas/index.html",
+    "main.17043f22.css.map": "/freecodecamp-tareas/static/css/main.17043f22.css.map",
+    "main.3fc938b0.js.map": "/freecodecamp-tareas/static/js/main.3fc938b0.js.map"
   },
   "entrypoints": [
     "static/css/main.17043f22.css",
-    "static/js/main.c66c1793.js"
+    "static/js/main.3fc938b0.js"
   ]
 }
